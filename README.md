@@ -15,7 +15,7 @@ TpaPlugin is a Minecraft Spigot plugin that enables players to send Teleport Req
 
 1.Ensure you have a Spigot server running Minecraft version 1.20
 
-2.Download the latest release of TpaPlugin from the [Releases](https://github.com/your-username/TpaPlugin/releases) page.
+2.Download the latest release of TpaPlugin from the [Releases](https://github.com/StephSteel/TpaPlugin/releases/tag/teleport) page.
 
 3.Place the downloaded plugin JAR file into the `plugins` folder of your Minecraft Spigot server.
 

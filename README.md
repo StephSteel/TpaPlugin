@@ -11,7 +11,7 @@ TpaPlugin is a Minecraft Spigot plugin that enables players to send Teleport Req
 
 ## Installation
 
-### To install the ChickenShooter plugin on your server, follow these simple steps:
+### To install the TpaPlugin plugin on your server, follow these simple steps:
 
 1.Ensure you have a Spigot server running Minecraft version 1.20
 

@@ -1,0 +1,11 @@
+name: TpaPlugin
+version: '${project.version}'
+main: dev.steph.tpaplugin.TpaPlugin
+api-version: 1.20
+
+commands:
+  accept:
+    description: Accept tpa request
+  tpa:
+    description: Send tpa request
+    usage: "/tpa <player>"

@@ -1,0 +1,5 @@
+dev\steph\tpaplugin\commands\TpaCommand.class
+dev\steph\tpaplugin\TpaManager.class
+dev\steph\tpaplugin\TpaPlugin.class
+dev\steph\tpaplugin\commands\AcceptCommand.class
+dev\steph\tpaplugin\TpaRequest.class

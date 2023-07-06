@@ -34,7 +34,7 @@ I highly value your feedback to improve TpaPlugin based on your suggestions. If 
 
 
 ## License
-TpaPlugin is released under the MIT License, allowing you to modify and distribute the plugin in accordance with the terms of the license.
+TpaPlugin is released under the **MIT License**, allowing you to modify and distribute the plugin in accordance with the terms of the license.
 
 
 ## Credits
